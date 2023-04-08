@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../RinkaNET"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RinkaNET"
+	}
+}
